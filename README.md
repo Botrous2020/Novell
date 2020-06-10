@@ -9,7 +9,7 @@
 <br> 
 </span><span style="font-size:20px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;</span></span><strong>"You" </strong>are patients longing for cost efficient yet effective drugs to cure all kind of diseases. </span></span> 
 
-<p><span style="font-size:18px"><span style="font-family:tahoma,geneva,sans-serif"><strong>"You" </strong>are medical community and healthcare providers, who cares about excellent quality products and trusted partners in providing medical information as well as providing novelty products.<br><br>"You" are government who are looking for    <span style="color:#696969">&nbsp;<strong>partners to support government effort </strong>,&nbsp;<strong>to achieve a healthy community. </strong>&nbsp; </span></span></span></p>
+<p><span style="font-size:18px"><span style="font-family:tahoma,geneva,sans-serif"><strong>"You" </strong>are medical community and healthcare providers, who cares about excellent quality products and trusted partners in providing medical information as well as providing novelty products.<br><br><strong>"You" </strong>are government who are looking for partners to support government effort    <span style="color:#696969">&nbsp;<strong></strong>,&nbsp;<strong>to achieve a healthy community. </strong>&nbsp; </span></span></span></p>
 
 </div> 
 
