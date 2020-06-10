@@ -5,7 +5,7 @@
 
 <div class="text_left_1">
        
-<p><span style="font-size:18px"><span style="font-family:tahoma,geneva,sans-serif"><span style="color:#B22222"><strong><span style="font-family:arial,helvetica,sans-serif"><span style="font-size:20px">Novell Pharmaceuticals</span></span></strong>
+<span style="font-size:18px"><span style="font-family:tahoma,geneva,sans-serif"><span style="color:#B22222"><strong><span style="font-family:arial,helvetica,sans-serif"><span style="font-size:20px">Novell Pharmaceuticals</span></span></strong>
 <br> 
 <p></span><span style="font-size:20px"><span style="font-family:arial,helvetica,sans-serif">&nbsp;</span></span>"You" are patients longing for cost efficient yet effective drugs to cure all kind of diseases. </span></span></p>
 
