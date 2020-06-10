@@ -11,6 +11,19 @@
 
 <p><span style="font-size:18px"><span style="font-family:tahoma,geneva,sans-serif">"You" are medical community and healthcare providers, who cares about excellent quality products and trusted partners in providing medical information as well as providing novelty products.<br><br>"You" are government who are looking for partners to support government effort to achieve a healthy community  <span style="color:#696969">&nbsp;<strong>safe</strong>,&nbsp;<strong>effective&nbsp;</strong>and&nbsp;<strong>affordable</strong>&nbsp;Pharmaceuticals and Health care products of superior quality.</span></span></span></p>
 
+</div>
+
+
+
+<div>
+<h2  style="text-align:right;" >  نظــام المبيعات </h2>
+<p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_items.php">  ملف اسعار الادوية  </a></p>
+  <p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_order1.php"> فواتير شركة النصر للادوية </a></p>
+</div>
+ 
+
+</body>
+</html>
 
         
 
