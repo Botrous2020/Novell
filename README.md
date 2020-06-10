@@ -1,4 +1,6 @@
-
+<html>
+        
+        <body>
 <tr>
         <td width="7%">&nbsp;</td>
         <td width="87%">"You" are patients longing for cost efficient yet effective drugs to cure all kind of diseases.<br><br>
@@ -7,3 +9,6 @@
         <td width="6%">&nbsp;</td>
       </tr>
       
+      
+      </body>
+</html>
