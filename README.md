@@ -18,9 +18,9 @@
 <div>
 <h2  style="text-align:right;" >  نظــام المبيعات </h2>
 
-<p style="text-align:right;" ><a href="https://41.41.222.4/bot/customerslist.php">   ملف العمـلاءوالاسعــار  </a></p>
+<p style="text-align:right;" ><a href="https://41.41.222.4/bot/customerslist.php">   ملف العمـلاء والاسعــار  </a></p>
 
--- <p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_items.php">  ملف اسعار الادوية  </a></p>
+# <p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_items.php">  ملف اسعار الادوية  </a></p>
   <p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_order2.php"> أستقبال طلبيات السادة الصيادلة </a></p>
 </div>
  
