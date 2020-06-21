@@ -21,7 +21,7 @@
 <p style="text-align:right;" ><a href="https://41.41.222.4/bot/customerslist.php">   اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
 
 <!--p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_items.php">  ملف اسعار الادوية  </a></p -->
-  <!--p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_order2.php"--> أستقبال طلبيات السادة الصيادلة </a></p>
+<!--p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_order2.php"> قبال طلبيات السادة الصيادلة</a></p-->
 </div>
  
 
