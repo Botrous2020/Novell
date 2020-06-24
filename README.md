@@ -20,7 +20,7 @@
 
 <p style="text-align:right;" ><a href="https://192.168.1.5/bot/login.php">  Server1 اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
 <p style="text-align:right;" ><a href="https://192.168.43.226/bish/login.php">  Server2 اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
-
+ 
 <!--p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_items.php">  ملف اسعار الادوية  </a></p -->
 <!--p style="text-align:right;" ><a href="https://41.41.222.4//myprojects/input_order2.php"> قبال طلبيات السادة الصيادلة</a></p-->
 </div>
