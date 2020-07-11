@@ -19,7 +19,8 @@
 <h2  style="text-align:right;" >  نظــام المبيعات </h2>
 
 <p style="text-align:right;" ><a href="https://45.241.61.218/bot/login.php">  Server1 اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
-<p style="text-align:right;" ><a href="https://45.243.224.199/bot/login.php">  Server2 اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
+<p style="text-align:right;" ><a href="https://45.241.61.218/bot/login.php">  Server2 اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
+ 
  
  
 <!--p style="text-align:right;" ><a href="https://http://45.241.61.217/myprojects/input_items.php">  ملف اسعار الادوية  </a></p -->
