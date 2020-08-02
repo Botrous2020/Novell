@@ -19,7 +19,7 @@
 <h2  style="text-align:right;" >  نظــام المبيعات </h2>
 
 <p style="text-align:right;" ><a href="https://45.241.61.218/Novell/login.php">  Server1 اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
-<p style="text-align:right;" ><a href="https://45.241.61.219/Novell/login.php">  Server2 اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
+<p style="text-align:right;" ><a href="https://45.241.61.219/Vodachem/login.php">  Server2 اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
  
  
  
