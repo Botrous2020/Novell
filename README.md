@@ -20,7 +20,7 @@
 
 <p style="text-align:right;" ><a href="https://45.241.61.218/Novell/login.php">    اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
 <p style="text-align:right;" ><a href="https://45.241.61.218/Novell/HO/login.php">  خاص بادارة الشركــــة </a></p>
-<p style="text-align:right;" ><a href="https://192.168.1.6/Novell/login.php">    اهلا ومرحبا في نظام الطلبية Local  </a></p>
+<p style="text-align:right;" ><a href="http://192.168.1.6/Novell/login.php">    اهلا ومرحبا في نظام الطلبية Local  </a></p>
 <!-- p style="text-align:right;" ><a href="https://45.241.61.219/Vodachem/login.php">  Server2 اهلا ومرحبا في نظام الطلبية اونلاين </a></p-->
  
  
