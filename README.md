@@ -18,16 +18,16 @@
 <div>
 <h2  style="text-align:right;" >  نظــام المبيعات </h2>
 
-<p style="text-align:right;" ><a href="https://45.241.61.218/Novell/login.php">    اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
-<p style="text-align:right;" ><a href="https://45.241.61.218/Novell/HO/login.php">  خاص بادارة الشركــــة </a></p>
+<p style="text-align:right;" ><a href="http://45.241.61.218/Novell/login.php">    اهلا ومرحبا في نظام الطلبية اونلاين </a></p>
+<p style="text-align:right;" ><a href="http://45.241.61.218/Novell/HO/login.php">  خاص بادارة الشركــــة </a></p>
 <p style="text-align:right;" ><a href="http://192.168.1.2/Novell/login.php">   Home      اهلا ومرحبا في نظام الطلبية   </a></p>
 <p style="text-align:right;" ><a href="http://10.10.100.26/Novell/login.php">  Novell HQ  اهلا ومرحبا في نظام الطلبية   </a></p>
-<!-- p style="text-align:right;" ><a href="https://45.241.61.219/Vodachem/login.php">  Server2 اهلا ومرحبا في نظام الطلبية اونلاين </a></p-->
+<!-- p style="text-align:right;" ><a href="http://45.241.61.219/Vodachem/login.php">  Server2 اهلا ومرحبا في نظام الطلبية اونلاين </a></p-->
  
  
  
-<!--p style="text-align:right;" ><a href="https://http://45.241.61.217/myprojects/input_items.php">  ملف اسعار الادوية  </a></p -->
-<!--p style="text-align:right;" ><a href="https://45.243.188.116//myprojects/input_order2.php"> قبال طلبيات السادة الصيادلة</a></p-->
+<!--p style="text-align:right;" ><a href="http://http://45.241.61.217/myprojects/input_items.php">  ملف اسعار الادوية  </a></p -->
+<!--p style="text-align:right;" ><a href="http://45.243.188.116//myprojects/input_order2.php"> قبال طلبيات السادة الصيادلة</a></p-->
 </div>
  
  
