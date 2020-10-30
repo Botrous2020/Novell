@@ -18,7 +18,8 @@
 <div>
 <h2  style="text-align:right;" >  نظــام المبيعات </h2>
 
-<p style="text-align:right;" ><a href="http://45.241.61.218/Novell/login.php">  Welcome to My "Visits Online"   اهلا ومرحبا في نظام زيارتي اونلاين </a></p>
+<p style="text-align:right;" ><a href="http://45.241.61.218/Novell/login.php">  اهلا ومرحبا في نظام زيارتي اونلاين </a></p>
+<p style="text-align:right;" ><a href="http://45.241.61.218/Novell/login.php">  Welcome to My "Visits Online"    </a></p>
 <!--p style="text-align:right;" ><a href="http://45.241.61.218/Novell/login.php">  خاص بادارة الشركــــة </a></p-->
 <!--p style="text-align:right;" ><a href="http://192.168.1.2/Novell/login.php">   Home      اهلا ومرحبا في نظام الطلبية   </a></p-->
 <!--p style="text-align:right;" ><a href="http://10.10.100.26/Novell/login.php">  Novell HQ  اهلا ومرحبا في نظام الطلبية   </a></p-->
